@@ -1,0 +1,6 @@
+.bg-container {
+    background-image: url('https://ik.imagekit.io/meallojyj/Tourism%20project/sea%20photo.jpeg');
+    width: 300px;
+    height: 600px;
+    background-size: cover;
+}

@@ -1,0 +1,33 @@
+.para1 {
+    background-color: rgb(9, 9, 79, 0.5);
+    background-image: url("asset/animal.jpg");
+    height: 300px;
+    background-repeat: inherit;
+    background-size: auto;
+    color: blanchedalmond;
+    opacity: 0.5;
+}
+.para2 {
+    background-color: brown;
+
+}
+.box1 {
+    height: 200px;
+    width: 200px;
+    border: pink dotted;
+    background-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    padding: 10px;
+}
+.box2 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: brown 20px dotted;
+}
+.box3 {
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+}

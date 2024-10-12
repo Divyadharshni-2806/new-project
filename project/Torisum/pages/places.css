@@ -1,0 +1,20 @@
+.bg-container-places {
+    background-image: url('https://ik.imagekit.io/meallojyj/Tourism%20project/Taj%20Mahal');
+    width: 300px;
+    height: 600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+.bg-container-Assignment {
+    background-image: url('https://ik.imagekit.io/meallojyj/Tourism%20project/chatpage.png');
+    width: 300px;
+    height: 600px;
+    background-size: contain;
+    
+ 
+}
